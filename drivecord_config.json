@@ -1,0 +1,12 @@
+{
+    "server_id": "",
+    "channel_id": "",
+    "bot_tokens": [],
+    "directories": {
+        "name": "root",
+        "files": [],
+        "subdirs": [],
+        "expanded": true
+    },
+    "chunk_size_mb": 5
+}
