@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d9b9d313-0919-45b8-be41-d42ac89bcd08" alt="DriveCord banner" width="800">
+  <img src="https://github.com/user-attachments/assets/d9b9d313-0919-45b8-be41-d42ac89bcd08" alt="DriveCord banner" width="1200">
 </p>
 
 <h1 align="center">DriveCord</h1>
